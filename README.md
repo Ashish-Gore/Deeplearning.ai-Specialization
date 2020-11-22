@@ -82,6 +82,6 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 1 - Dinosaur Island - Character-Level Language Modeling](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/5.%20Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final.ipynb)
   + [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/5.%20Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network.ipynb)
   + [Week 2 - Operations on word vectors](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/5.%20Sequence%20Models/Operations%20on%20word%20vectors.ipynb)
-  + [Week 2 - Emojify - v2](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Emojify%2B-%2Bv2.ipynb)
+  + [Week 2 - Emojify](https://github.com/gemaatienza/Deep-Learning-Coursera/blob/master/5.%20Sequence%20Models/Emojify%2B-%2Bv2.ipynb)
   + [Week 3 - Neural machine translation with attention](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/5.%20Sequence%20Models/Neural%20machine%20translation%20with%20attention.ipynb)
   + [Week 3 - Trigger word detection](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/5.%20Sequence%20Models/Trigger%20word%20detection.ipynb)
