@@ -1,3 +1,8 @@
+# Course 4. Convolutional Neural Networks
+Certificate: [Verify Here](https://coursera.org/share/bdeca9ac6bf9b01af410a2ea4e4eb593)
+
+![picture alt](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/4.%20Convolutional%20Neural%20Networks/Course-4%20Convolutional%20Neural%20Networks.jpg)
+
 ## Objectives:
   - Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
   - Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
@@ -5,17 +10,17 @@
   - Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
 
 ## Week 1:
-  - Convolution model - Step by Step - v2.ipynb
-  - Convolution model - Application - v1.ipynb
+  - Convolution model - Step by Step
+  - Convolution model - Application 
   
 ## Week 2:
-  - Keras - Tutorial - Happy House v2.ipynb
-  - Residual Networks - v2.ipynb
+  - Keras - Tutorial - Happy House
+  - Residual Networks 
   
 ## Week 3:
-  - Autonomous driving application - Car detection - v1.ipynb
+  - Autonomous driving application - Car detection 
   
 ## Week 4:
-  - Face Recognition for the Happy House - v3.ipynb
-  - Art Generation with Neural Style Transfer - v2.ipynb
+  - Face Recognition for the Happy House 
+  - Art Generation with Neural Style Transfer 
  
