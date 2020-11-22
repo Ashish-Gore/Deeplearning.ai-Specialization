@@ -1,3 +1,7 @@
+# Course 3. Structuring Machine Learning Projects
+Certificate: [Verify Here](https://coursera.org/share/1db23e4471afe0c974b7b89686e429b4)
+
+![picture alt](https://github.com/Ashish-Gore/Deeplearning.ai-Specialization/blob/main/3.%20Structuring%20Machine%20Learning%20Projects/Course-3%20Structuring%20Machine%20Learning%20Projects.jpg)
 
 ## Objectives
   - Understand why Machine Learning strategy is important
